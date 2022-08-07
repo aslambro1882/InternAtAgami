@@ -1,0 +1,58 @@
+[
+    {
+        "gradeno": "7",
+        "gsno": "1",
+        "lower": "80.000",
+        "upper": "101.000",
+        "lettergrade": "A+",
+        "gradepoint": "5.000"
+    },
+    {
+        "gradeno": "6",
+        "gsno": "1",
+        "lower": "70.000",
+        "upper": "80.000",
+        "lettergrade": "A",
+        "gradepoint": "4.000"
+    },
+    {
+        "gradeno": "5",
+        "gsno": "1",
+        "lower": "60.000",
+        "upper": "70.000",
+        "lettergrade": "A-",
+        "gradepoint": "3.500"
+    },
+    {
+        "gradeno": "4",
+        "gsno": "1",
+        "lower": "50.000",
+        "upper": "60.000",
+        "lettergrade": "B",
+        "gradepoint": "3.000"
+    },
+    {
+        "gradeno": "3",
+        "gsno": "1",
+        "lower": "40.000",
+        "upper": "50.000",
+        "lettergrade": "C",
+        "gradepoint": "2.000"
+    },
+    {
+        "gradeno": "2",
+        "gsno": "1",
+        "lower": "33.000",
+        "upper": "40.000",
+        "lettergrade": "D",
+        "gradepoint": "1.000"
+    },
+    {
+        "gradeno": "1",
+        "gsno": "1",
+        "lower": "0.000",
+        "upper": "33.000",
+        "lettergrade": "F",
+        "gradepoint": "0.000"
+    }
+]

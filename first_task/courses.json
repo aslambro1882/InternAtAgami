@@ -1,0 +1,66 @@
+[
+    {
+        "examno": "15",
+        "courselevelno": "1",
+        "coursecode": "Sc-101",
+        "coursetitle": "Bangla",
+        "display_order": "1",
+        "parentsubjectno": "1"
+    },
+    {
+        "examno": "15",
+        "courselevelno": "1",
+        "coursecode": "Sc-107",
+        "coursetitle": "English",
+        "display_order": "2",
+        "parentsubjectno": "2"
+    },
+    {
+        "examno": "15",
+        "courselevelno": "1",
+        "coursecode": "Sc-275",
+        "coursetitle": "ICT",
+        "display_order": "3",
+        "parentsubjectno": "3"
+    },
+    {
+        "examno": "15",
+        "courselevelno": "1",
+        "coursecode": "174",
+        "coursetitle": "Physics",
+        "display_order": "4",
+        "parentsubjectno": "4"
+    },
+    {
+        "examno": "15",
+        "courselevelno": "1",
+        "coursecode": "176",
+        "coursetitle": "Chemistry",
+        "display_order": "5",
+        "parentsubjectno": "5"
+    },
+    {
+        "examno": "15",
+        "courselevelno": "1",
+        "coursecode": "178",
+        "coursetitle": "Biology",
+        "display_order": "6",
+        "parentsubjectno": "7"
+    },
+    {
+        "examno": "15",
+        "courselevelno": "1",
+        "coursecode": "265",
+        "coursetitle": "Higher Math",
+        "display_order": "7",
+        "parentsubjectno": "6"
+    },
+    {
+        "examno": "15",
+        "courselevelno": "1",
+        "coursecode": "sc-123",
+        "coursetitle": "Psychology",
+        "display_order": "8",
+        "parentsubjectno": "18"
+    }
+]

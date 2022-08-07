@@ -1,0 +1,2450 @@
+[
+    {
+        "stdno": 4660,
+        "peopleno": 4808,
+        "stdid": "2110571",
+        "name_en": "Pappy Biswas",
+        "fname_en": "Sujan Biswas",
+        "mname_en": "Munni Biswas",
+        "contactno": "01840439499",
+        "courselevelno": 1,
+        "groupno": 1,
+        "academicyear": "2022",
+        "academicsession": "2021-2022",
+        "note": "ADM2STDB 2022-03-05 13:32:19",
+        "token": "DABNWE",
+        "createtime": "2022-03-05 00:32:19",
+        "addedby": 1,
+        "rollno": 571,
+        "csid": null,
+        "sectionlabel": null,
+        "group_supervisor_name": "Sabrina Jafor",
+        "valid_courses": [
+            {
+                "examno": 15,
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "coursetitle": "Bangla",
+                "display_order": 1,
+                "parentsubjectno": 1,
+                "listtype": 1,
+                "orderno": 0
+            },
+            {
+                "examno": 15,
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "coursetitle": "English",
+                "display_order": 2,
+                "parentsubjectno": 2,
+                "listtype": 1,
+                "orderno": 1
+            },
+            {
+                "examno": 15,
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "coursetitle": "ICT",
+                "display_order": 3,
+                "parentsubjectno": 3,
+                "listtype": 1,
+                "orderno": 2
+            },
+            {
+                "examno": 15,
+                "courselevelno": 1,
+                "coursecode": "174",
+                "coursetitle": "Physics",
+                "display_order": 4,
+                "parentsubjectno": 4,
+                "listtype": 2,
+                "orderno": 3
+            },
+            {
+                "examno": 15,
+                "courselevelno": 1,
+                "coursecode": "176",
+                "coursetitle": "Chemistry",
+                "display_order": 5,
+                "parentsubjectno": 5,
+                "listtype": 2,
+                "orderno": 4
+            },
+            {
+                "examno": 15,
+                "courselevelno": 1,
+                "coursecode": "178",
+                "coursetitle": "Biology",
+                "display_order": 6,
+                "parentsubjectno": 7,
+                "listtype": 2,
+                "orderno": 5
+            },
+            {
+                "examno": 15,
+                "courselevelno": 1,
+                "coursecode": "265",
+                "coursetitle": "Higher Math",
+                "display_order": 7,
+                "parentsubjectno": 6,
+                "listtype": 3,
+                "orderno": 6
+            }
+        ],
+        "optional_courses": [],
+        "marks": [
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 2,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 1",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "14.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 2,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 1",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "12.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 2,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 1",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "9.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 2,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 1",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "10.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 2,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 1",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "13.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 2,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 1",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "6.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 2,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 1",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 2,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 1",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "4.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 3,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 2",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "15.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 3,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 2",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "6.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 3,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 2",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "4.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 3,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 2",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "8.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 3,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 2",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "11.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 3,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 2",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "7.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 3,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 2",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 3,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 2",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "0.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 4,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "CQ",
+                "min_to_pass": "20.00",
+                "fullmarks": "50.00",
+                "marks": "27.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 4,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "CQ",
+                "min_to_pass": "20.00",
+                "fullmarks": "50.00",
+                "marks": "24.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 4,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "CQ",
+                "min_to_pass": "20.00",
+                "fullmarks": "50.00",
+                "marks": "25.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 4,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "CQ",
+                "min_to_pass": "20.00",
+                "fullmarks": "50.00",
+                "marks": "28.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 4,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "CQ",
+                "min_to_pass": "28.00",
+                "fullmarks": "70.00",
+                "marks": "43.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 4,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "CQ",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": "52.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 4,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "CQ",
+                "min_to_pass": "20.00",
+                "fullmarks": "50.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 4,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "CQ",
+                "min_to_pass": "20.00",
+                "fullmarks": "50.00",
+                "marks": "20.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 5,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MCQ",
+                "min_to_pass": "10.00",
+                "fullmarks": "25.00",
+                "marks": "13.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 5,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MCQ",
+                "min_to_pass": "10.00",
+                "fullmarks": "25.00",
+                "marks": "12.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 5,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MCQ",
+                "min_to_pass": "10.00",
+                "fullmarks": "25.00",
+                "marks": "15.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 5,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MCQ",
+                "min_to_pass": "10.00",
+                "fullmarks": "25.00",
+                "marks": "16.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 5,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MCQ",
+                "min_to_pass": "12.00",
+                "fullmarks": "30.00",
+                "marks": "21.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 5,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MCQ",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 5,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MCQ",
+                "min_to_pass": "10.00",
+                "fullmarks": "25.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 5,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MCQ",
+                "min_to_pass": "10.00",
+                "fullmarks": "25.00",
+                "marks": "19.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 7,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "Highest",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "63.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 7,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "Highest",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "68.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 7,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "Highest",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "71.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 7,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "Highest",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "84.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 7,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "Highest",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "71.250"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 7,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "Highest",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "73.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 7,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "Highest",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 7,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "Highest",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "79.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 8,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "20% of MT Ave",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "14.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 8,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "20% of MT Ave",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "9.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 8,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "20% of MT Ave",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "6.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 8,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "20% of MT Ave",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "9.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 8,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "20% of MT Ave",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "12.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 8,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "20% of MT Ave",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "6.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 8,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "20% of MT Ave",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 8,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "20% of MT Ave",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "2.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 9,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "75% of Exam",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "40.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 9,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "75% of Exam",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "36.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 9,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "75% of Exam",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "40.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 9,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "75% of Exam",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "44.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 9,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "75% of Exam",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "48.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 9,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "75% of Exam",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "39.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 9,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "75% of Exam",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 9,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "75% of Exam",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "39.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 10,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "5% of Atten",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "2.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 10,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "5% of Atten",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "2.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 10,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "5% of Atten",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "2.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 10,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "5% of Atten",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "2.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 10,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "5% of Atten",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "2.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 10,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "5% of Atten",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "2.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 10,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "5% of Atten",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 10,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "5% of Atten",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "2.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 11,
+                "splittype": "TOTAL",
+                "splittitle": "Exam Total",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": "57.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 11,
+                "splittype": "TOTAL",
+                "splittitle": "Exam Total",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": "47.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 11,
+                "splittype": "TOTAL",
+                "splittitle": "Exam Total",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": "49.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 11,
+                "splittype": "TOTAL",
+                "splittitle": "Exam Total",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": "55.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 11,
+                "splittype": "TOTAL",
+                "splittitle": "Exam Total",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": "62.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 11,
+                "splittype": "TOTAL",
+                "splittitle": "Exam Total",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": "48.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 11,
+                "splittype": "TOTAL",
+                "splittitle": "Exam Total",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 11,
+                "splittype": "TOTAL",
+                "splittitle": "Exam Total",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": "43.500"
+            }
+        ]
+    },
+    {
+        "stdno": 4683,
+        "peopleno": 4831,
+        "stdid": "2110585",
+        "name_en": "AMENA AKTER",
+        "fname_en": "MD BASHIR ULLAH",
+        "mname_en": "SABIKUN NAHAR",
+        "contactno": "01832810024",
+        "courselevelno": 1,
+        "groupno": 1,
+        "academicyear": "2022",
+        "academicsession": "2021-2022",
+        "note": "ADM2STDB 2022-03-05 13:32:19",
+        "token": "YDPJUL",
+        "createtime": "2022-03-05 00:32:19",
+        "addedby": 1,
+        "rollno": 585,
+        "csid": null,
+        "sectionlabel": null,
+        "group_supervisor_name": "Rashedul Hasan Mitul",
+        "valid_courses": [
+            {
+                "examno": 15,
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "coursetitle": "Bangla",
+                "display_order": 1,
+                "parentsubjectno": 1,
+                "listtype": 1,
+                "orderno": 0
+            },
+            {
+                "examno": 15,
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "coursetitle": "English",
+                "display_order": 2,
+                "parentsubjectno": 2,
+                "listtype": 1,
+                "orderno": 1
+            },
+            {
+                "examno": 15,
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "coursetitle": "ICT",
+                "display_order": 3,
+                "parentsubjectno": 3,
+                "listtype": 1,
+                "orderno": 2
+            },
+            {
+                "examno": 15,
+                "courselevelno": 1,
+                "coursecode": "174",
+                "coursetitle": "Physics",
+                "display_order": 4,
+                "parentsubjectno": 4,
+                "listtype": 2,
+                "orderno": 3
+            },
+            {
+                "examno": 15,
+                "courselevelno": 1,
+                "coursecode": "176",
+                "coursetitle": "Chemistry",
+                "display_order": 5,
+                "parentsubjectno": 5,
+                "listtype": 2,
+                "orderno": 4
+            },
+            {
+                "examno": 15,
+                "courselevelno": 1,
+                "coursecode": "265",
+                "coursetitle": "Higher Math",
+                "display_order": 7,
+                "parentsubjectno": 6,
+                "listtype": 2,
+                "orderno": 5
+            },
+            {
+                "examno": 15,
+                "courselevelno": 1,
+                "coursecode": "178",
+                "coursetitle": "Biology",
+                "display_order": 6,
+                "parentsubjectno": 7,
+                "listtype": 3,
+                "orderno": 6
+            }
+        ],
+        "optional_courses": [],
+        "marks": [
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 2,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 1",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "14.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 2,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 1",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "10.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 2,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 1",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "16.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 2,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 1",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "16.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 2,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 1",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "13.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 2,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 1",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "6.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 2,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 1",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 2,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 1",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "11.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 3,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 2",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "18.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 3,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 2",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "13.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 3,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 2",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "7.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 3,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 2",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "17.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 3,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 2",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "11.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 3,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 2",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "10.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 3,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 2",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 3,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 2",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "12.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 4,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "CQ",
+                "min_to_pass": "20.00",
+                "fullmarks": "50.00",
+                "marks": "28.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 4,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "CQ",
+                "min_to_pass": "20.00",
+                "fullmarks": "50.00",
+                "marks": "38.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 4,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "CQ",
+                "min_to_pass": "20.00",
+                "fullmarks": "50.00",
+                "marks": "28.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 4,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "CQ",
+                "min_to_pass": "20.00",
+                "fullmarks": "50.00",
+                "marks": "30.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 4,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "CQ",
+                "min_to_pass": "28.00",
+                "fullmarks": "70.00",
+                "marks": "31.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 4,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "CQ",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": "48.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 4,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "CQ",
+                "min_to_pass": "20.00",
+                "fullmarks": "50.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 4,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "CQ",
+                "min_to_pass": "20.00",
+                "fullmarks": "50.00",
+                "marks": "32.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 5,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MCQ",
+                "min_to_pass": "10.00",
+                "fullmarks": "25.00",
+                "marks": "15.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 5,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MCQ",
+                "min_to_pass": "10.00",
+                "fullmarks": "25.00",
+                "marks": "15.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 5,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MCQ",
+                "min_to_pass": "10.00",
+                "fullmarks": "25.00",
+                "marks": "23.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 5,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MCQ",
+                "min_to_pass": "10.00",
+                "fullmarks": "25.00",
+                "marks": "19.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 5,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MCQ",
+                "min_to_pass": "12.00",
+                "fullmarks": "30.00",
+                "marks": "24.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 5,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MCQ",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 5,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MCQ",
+                "min_to_pass": "10.00",
+                "fullmarks": "25.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 5,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MCQ",
+                "min_to_pass": "10.00",
+                "fullmarks": "25.00",
+                "marks": "14.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 7,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "Highest",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "63.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 7,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "Highest",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "68.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 7,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "Highest",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "71.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 7,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "Highest",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "84.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 7,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "Highest",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "71.250"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 7,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "Highest",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "73.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 7,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "Highest",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 7,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "Highest",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "79.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 8,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "20% of MT Ave",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "16.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 8,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "20% of MT Ave",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "11.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 8,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "20% of MT Ave",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "11.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 8,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "20% of MT Ave",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "16.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 8,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "20% of MT Ave",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "12.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 8,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "20% of MT Ave",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "8.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 8,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "20% of MT Ave",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 8,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "20% of MT Ave",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "11.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 9,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "75% of Exam",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "43.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 9,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "75% of Exam",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "53.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 9,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "75% of Exam",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "51.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 9,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "75% of Exam",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "49.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 9,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "75% of Exam",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "41.250"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 9,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "75% of Exam",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "36.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 9,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "75% of Exam",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 9,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "75% of Exam",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "46.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 10,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "5% of Atten",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "4.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 10,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "5% of Atten",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "4.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 10,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "5% of Atten",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "4.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 10,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "5% of Atten",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "4.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 10,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "5% of Atten",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "4.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 10,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "5% of Atten",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "4.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 10,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "5% of Atten",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 10,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "5% of Atten",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "4.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 11,
+                "splittype": "TOTAL",
+                "splittitle": "Exam Total",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": "63.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 11,
+                "splittype": "TOTAL",
+                "splittitle": "Exam Total",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": "68.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 11,
+                "splittype": "TOTAL",
+                "splittitle": "Exam Total",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": "66.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 11,
+                "splittype": "TOTAL",
+                "splittitle": "Exam Total",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": "69.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 11,
+                "splittype": "TOTAL",
+                "splittitle": "Exam Total",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": "57.250"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 11,
+                "splittype": "TOTAL",
+                "splittitle": "Exam Total",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": "48.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 11,
+                "splittype": "TOTAL",
+                "splittitle": "Exam Total",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 11,
+                "splittype": "TOTAL",
+                "splittitle": "Exam Total",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": "61.500"
+            }
+        ]
+    },
+    {
+        "stdno": 4685,
+        "peopleno": 4833,
+        "stdid": "2110588",
+        "name_en": "SABRINA RASHID NAFIZA",
+        "fname_en": "HARUNAR RASHID",
+        "mname_en": "SHARMIN AKTER",
+        "contactno": "01843781433",
+        "courselevelno": 1,
+        "groupno": 1,
+        "academicyear": "2022",
+        "academicsession": "2021-2022",
+        "note": "ADM2STDB 2022-03-05 13:32:19",
+        "token": "UKMVHS",
+        "createtime": "2022-03-05 00:32:19",
+        "addedby": 1,
+        "rollno": 588,
+        "csid": null,
+        "sectionlabel": null,
+        "group_supervisor_name": "Rashedul Hasan Mitul",
+        "valid_courses": [
+            {
+                "examno": 15,
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "coursetitle": "Bangla",
+                "display_order": 1,
+                "parentsubjectno": 1,
+                "listtype": 1,
+                "orderno": 0
+            },
+            {
+                "examno": 15,
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "coursetitle": "English",
+                "display_order": 2,
+                "parentsubjectno": 2,
+                "listtype": 1,
+                "orderno": 1
+            },
+            {
+                "examno": 15,
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "coursetitle": "ICT",
+                "display_order": 3,
+                "parentsubjectno": 3,
+                "listtype": 1,
+                "orderno": 2
+            },
+            {
+                "examno": 15,
+                "courselevelno": 1,
+                "coursecode": "178",
+                "coursetitle": "Biology",
+                "display_order": 6,
+                "parentsubjectno": 7,
+                "listtype": 2,
+                "orderno": 3
+            },
+            {
+                "examno": 15,
+                "courselevelno": 1,
+                "coursecode": "174",
+                "coursetitle": "Physics",
+                "display_order": 4,
+                "parentsubjectno": 4,
+                "listtype": 2,
+                "orderno": 4
+            },
+            {
+                "examno": 15,
+                "courselevelno": 1,
+                "coursecode": "176",
+                "coursetitle": "Chemistry",
+                "display_order": 5,
+                "parentsubjectno": 5,
+                "listtype": 2,
+                "orderno": 5
+            },
+            {
+                "examno": 15,
+                "courselevelno": 1,
+                "coursecode": "265",
+                "coursetitle": "Higher Math",
+                "display_order": 7,
+                "parentsubjectno": 6,
+                "listtype": 3,
+                "orderno": 6
+            }
+        ],
+        "optional_courses": [],
+        "marks": [
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 2,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 1",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "13.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 2,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 1",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "8.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 2,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 1",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "11.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 2,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 1",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "20.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 2,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 1",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "8.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 2,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 1",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "5.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 2,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 1",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 2,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 1",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "10.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 3,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 2",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "7.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 3,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 2",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "11.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 3,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 2",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "5.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 3,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 2",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "12.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 3,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 2",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "8.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 3,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 2",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "9.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 3,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 2",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 3,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MT 2",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "8.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 4,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "CQ",
+                "min_to_pass": "20.00",
+                "fullmarks": "50.00",
+                "marks": "13.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 4,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "CQ",
+                "min_to_pass": "20.00",
+                "fullmarks": "50.00",
+                "marks": "20.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 4,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "CQ",
+                "min_to_pass": "20.00",
+                "fullmarks": "50.00",
+                "marks": "17.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 4,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "CQ",
+                "min_to_pass": "20.00",
+                "fullmarks": "50.00",
+                "marks": "23.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 4,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "CQ",
+                "min_to_pass": "28.00",
+                "fullmarks": "70.00",
+                "marks": "28.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 4,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "CQ",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": "40.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 4,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "CQ",
+                "min_to_pass": "20.00",
+                "fullmarks": "50.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 4,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "CQ",
+                "min_to_pass": "20.00",
+                "fullmarks": "50.00",
+                "marks": "31.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 5,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MCQ",
+                "min_to_pass": "10.00",
+                "fullmarks": "25.00",
+                "marks": "15.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 5,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MCQ",
+                "min_to_pass": "10.00",
+                "fullmarks": "25.00",
+                "marks": "12.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 5,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MCQ",
+                "min_to_pass": "10.00",
+                "fullmarks": "25.00",
+                "marks": "13.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 5,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MCQ",
+                "min_to_pass": "10.00",
+                "fullmarks": "25.00",
+                "marks": "10.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 5,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MCQ",
+                "min_to_pass": "12.00",
+                "fullmarks": "30.00",
+                "marks": "15.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 5,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MCQ",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 5,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MCQ",
+                "min_to_pass": "10.00",
+                "fullmarks": "25.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 5,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "MCQ",
+                "min_to_pass": "10.00",
+                "fullmarks": "25.00",
+                "marks": "18.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 7,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "Highest",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "63.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 7,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "Highest",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "68.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 7,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "Highest",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "71.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 7,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "Highest",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "84.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 7,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "Highest",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "71.250"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 7,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "Highest",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "73.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 7,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "Highest",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 7,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "Highest",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "79.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 8,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "20% of MT Ave",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "10.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 8,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "20% of MT Ave",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "9.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 8,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "20% of MT Ave",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "8.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 8,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "20% of MT Ave",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "16.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 8,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "20% of MT Ave",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "8.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 8,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "20% of MT Ave",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "7.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 8,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "20% of MT Ave",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 8,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "20% of MT Ave",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "9.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 9,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "75% of Exam",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "28.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 9,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "75% of Exam",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "32.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 9,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "75% of Exam",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "30.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 9,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "75% of Exam",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "33.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 9,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "75% of Exam",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "32.250"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 9,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "75% of Exam",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "30.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 9,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "75% of Exam",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 9,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "75% of Exam",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "49.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 10,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "5% of Atten",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "2.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 10,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "5% of Atten",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "2.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 10,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "5% of Atten",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "2.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 10,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "5% of Atten",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "2.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 10,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "5% of Atten",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "2.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 10,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "5% of Atten",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "2.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 10,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "5% of Atten",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 10,
+                "splittype": "MARKS_ENTRY",
+                "splittitle": "5% of Atten",
+                "min_to_pass": "0.00",
+                "fullmarks": "0.00",
+                "marks": "2.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "174",
+                "splitno": 11,
+                "splittype": "TOTAL",
+                "splittitle": "Exam Total",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": "40.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "176",
+                "splitno": 11,
+                "splittype": "TOTAL",
+                "splittitle": "Exam Total",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": "44.000"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "178",
+                "splitno": 11,
+                "splittype": "TOTAL",
+                "splittitle": "Exam Total",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": "40.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "265",
+                "splitno": 11,
+                "splittype": "TOTAL",
+                "splittitle": "Exam Total",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": "51.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-101",
+                "splitno": 11,
+                "splittype": "TOTAL",
+                "splittitle": "Exam Total",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": "42.750"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-107",
+                "splitno": 11,
+                "splittype": "TOTAL",
+                "splittitle": "Exam Total",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": "39.500"
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "sc-123",
+                "splitno": 11,
+                "splittype": "TOTAL",
+                "splittitle": "Exam Total",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": null
+            },
+            {
+                "courselevelno": 1,
+                "coursecode": "Sc-275",
+                "splitno": 11,
+                "splittype": "TOTAL",
+                "splittitle": "Exam Total",
+                "min_to_pass": "40.00",
+                "fullmarks": "100.00",
+                "marks": "60.500"
+            }
+        ]
+    }
+]
